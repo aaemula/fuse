@@ -1,0 +1,6 @@
+tasks:
+  - name: Build
+    init: make
+github:
+  prebuilds:
+    pullRequestsFromForks: true
